@@ -29,7 +29,7 @@ Esta aplicación está diseñada para facilitar la actualización de la traducci
 
 ## ¿Cómo usar SyncTranslator SC?
 
-1. **Descarga el ejecutable portable** desde la sección de [Releases]([https://github.com/DoxData/SyncTranslator_SC/releases](https://github.com/DoxData/Star-Citizen-TRADUCTOR-automatico-SyncTranslator-SC/releases/tag/SyncTranslatorSC.v1).
+1. **Descarga el ejecutable portable** desde la sección de [Releases](https://github.com/DoxData/Star-Citizen-TRADUCTOR-automatico-SyncTranslator-SC/releases/tag/SyncTranslatorSC.v1).
 2. **Ejecuta la aplicación**:
    - Si tienes Star Citizen instalado en `C:`, la aplicación lo detectará automáticamente y actualizará la traducción (si Star Citizen no está en ejecución).
    - Si Star Citizen está en otro disco, selecciona manualmente la ubicación de la carpeta. La aplicación recordará esta ubicación para la próxima vez.
