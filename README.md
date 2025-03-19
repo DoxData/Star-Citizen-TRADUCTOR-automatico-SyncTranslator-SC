@@ -8,7 +8,7 @@
 
 ¡Bienvenido a **SyncTranslator SC**! 🌌
 
-Esta aplicación está diseñada para facilitar la actualización de la traducción al ESPAÑOL de **Star Citizen** (tanto en la versión LIVE como en PTU). Si eres un jugador que prefiere disfrutar del juego en español, esta herramienta te ahorrará tiempo y esfuerzo al mantener tus archivos de traducción siempre actualizados.
+Esta aplicación está diseñada para facilitar la actualización de la traducción al ESPAÑOL de **Star Citizen** (tanto en la versión LIVE como en PTU). Si eres un jugador que prefiere disfrutar del juego en Español, esta herramienta te ahorrará tiempo y esfuerzo al mantener tus archivos de traducción siempre actualizados.
 
 ---
 
