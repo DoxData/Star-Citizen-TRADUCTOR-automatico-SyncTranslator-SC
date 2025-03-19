@@ -1,7 +1,10 @@
 
 # SyncTranslator SC
 
-![SyncTranslator SC](https://github.com/user-attachments/assets/f0a71d26-1434-4fcf-b95b-5f9bd004ab92)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/f0a71d26-1434-4fcf-b95b-5f9bd004ab92" alt="SyncTranslator SC">
+</div>
+
 
 ¡Bienvenido a **SyncTranslator SC**! 🌌
 
