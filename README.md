@@ -5,7 +5,7 @@
   <img src="https://github.com/user-attachments/assets/f0a71d26-1434-4fcf-b95b-5f9bd004ab92" alt="SyncTranslator SC">
 </div>
 <div align="center">
-  <strong>Automatiza la actualización de las traducciones de Star Citizen fácilmente.</strong>
+  <strong>Automatiza la actualización de las traducciones de Star Citizen fácilmente</strong>
 </div>
 
 <br>
