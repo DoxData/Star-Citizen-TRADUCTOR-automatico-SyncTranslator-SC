@@ -75,6 +75,8 @@ Este proyecto está bajo la licencia [MIT](LICENSE). ¡Usa, modifica y comparte 
 
 ---
 
+DESCARGA: https://github.com/DoxData/Star-Citizen-TRADUCTOR-automatico-SyncTranslator-SC/releases/download/SyncTranslatorSC.v1/SyncTranslator.SC.zip
+
 **¡Gracias por usar SyncTranslator SC!** 🚀  
 Si te gusta la aplicación, no olvides dejar una 🌟 en este repositorio. ¡Nos vemos en el 'verso! 🌌
 
