@@ -1,0 +1,70 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <ItemGroup>
+    <!-- ...existing resources... -->
+    <Content Include="inicio.wav">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <RootNamespace>SyncTranslator_SC</RootNamespace>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+    <UseWindowsForms>true</UseWindowsForms>
+    <EnforceCodeStyleInBuild>true</EnforceCodeStyleInBuild>
+    <AnalysisLevel>latest</AnalysisLevel>
+    <SignAssembly>False</SignAssembly>
+    <Copyright></Copyright>
+    <Description></Description>
+    <ApplicationIcon>icono.ico</ApplicationIcon>
+
+    <!-- Configuración para generar un único archivo .exe -->
+    <PublishSingleFile>true</PublishSingleFile>
+    <SelfContained>true</SelfContained> <!-- Incluye el runtime de .NET -->
+    <EnableCompressionInSingleFile>false</EnableCompressionInSingleFile> <!-- Desactiva la compresión -->
+    <RuntimeIdentifiers>win-x86;win-x64</RuntimeIdentifiers> <!-- Compatible con x86 y x64 -->
+    <DebugType>embedded</DebugType> <!-- Incrusta la información de depuración en el .exe -->
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <Optimize>False</Optimize>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <Optimize>true</Optimize> <!-- Optimiza el código en Release -->
+  </PropertyGroup>
+
+  <ItemGroup>
+    <!-- Incluye el archivo image.png como recurso -->
+    <Resource Include="image.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <!-- Referencias necesarias para el ícono y otras funcionalidades -->
+    <Resource Include="icono.ico">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <!-- Paquetes NuGet referenciados -->
+    <PackageReference Include="HtmlAgilityPack" Version="1.12.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    <PackageReference Include="NotifyIcon" Version="1.23.10209.11223" />
+    <PackageReference Include="System.Diagnostics.DiagnosticSource" Version="9.0.3" />
+    <PackageReference Include="System.IO.Compression.ZipFile" Version="4.3.0" />
+    <PackageReference Include="System.Text.Json" Version="9.0.3" />
+    <PackageReference Include="System.Drawing.Common" Version="7.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <!-- ...existing resources... -->
+    <Content Include="inicio.wav">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+</Project>
