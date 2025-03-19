@@ -60,13 +60,6 @@ Para que la aplicación portable (formato .exe) se ejecute automáticamente al i
 
 ---
 
-## Capturas de pantalla
-
-![Captura de pantalla 1](https://via.placeholder.com/600x400)  
-*Interfaz principal de SyncTranslator SC.*
-
----
-
 ## Contribuciones
 
 Si encuentras algún error o tienes alguna sugerencia, ¡no dudes en abrir un **issue** o enviar un **pull request**! Estoy abierto a mejorar la aplicación con la ayuda de la comunidad.
