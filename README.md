@@ -146,18 +146,17 @@ ERRORES EN LOGS? → Verifica ruta de instalación del juego
 - Certificado en [VirusTotal](https://www.virustotal.com/gui/home/upload).  
 - 0 telemetría o datos recolectados.  
 
-```markdown
-### 🛠️ Requisitos/Troubleshooting
+```### 🛠️ Requisitos/Troubleshooting
 - **Ejecución sin privilegios**:  
   - La aplicación funciona SIN necesitar modo administrador, pero con limitaciones:  
     - ❌ No mostrará temperatura de la CPU.  
     - ❌ Monitorización menos precisa del rendimiento.  
-    - ✅ Todas las demás funciones permanecen activas.  
-
+    - ✅ Todas las demás funciones permanecen activas.
+```
+```
 - **Para máximo rendimiento**:  
-  ```bash
-  # Ejecutar como administrador (recomendado):
-  Right Click > "Ejecutar como administrador"
+   # Ejecutar como administrador (recomendado)
+```
 
 _¡Nos vemos en el Verso, ciudadanos!_ 🚀  
 **— DoxData | By David**
