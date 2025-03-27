@@ -27,7 +27,7 @@ la herramienta definitiva para monitorizar tu experiencia en Star Citizen y mant
 ---
 
 
-```markdown
+```
 🎮 **PLAYERDETECTOR KILL SC - ASISTENCIA TÉCNICA** 🛠️  
 *¿Cansado de morir en Star Citizen sin saber cómo o quién te mató?*  
 
@@ -103,8 +103,8 @@ ERRORES EN LOGS? → Verifica ruta de instalación del juego
 - Código visible en GitHub.  
 - Certificado en [VirusTotal](https://www.virustotal.com/gui/home/upload).  
 - 0 telemetría o datos recolectados.  
-
-```markdown
+```
+```
 ### 🛠️ Requisitos/Troubleshooting
 - **Ejecución sin privilegios**:  
   - La aplicación funciona SIN necesitar modo administrador, pero con limitaciones:  
@@ -116,24 +116,6 @@ ERRORES EN LOGS? → Verifica ruta de instalación del juego
   ```bash
   # Ejecutar como administrador (recomendado):
   Right Click > "Ejecutar como administrador"
-# PlayerDetector-Kill-SC
-
-¡Hola, ciudadanos del 'verso!  
-
-Os presento 🎮 **PlayerDetector Kill SC - FAQ** 🛠️, la herramienta definitiva para monitorizar tu experiencia en Star Citizen y mantenerte un paso adelante.  
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/48be624c-add8-4a6c-a395-e6bd71c6bff3" alt="App_DoxData">
-</div>
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/496eba96-f118-4a2d-9315-9eecc526b82d" alt="Captura de pantalla 2025-03-27 235826">
-</div>
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/e45281e8-d488-4535-8508-035e928bf426" alt="Captura de pantalla 2025-03-27 235920">
-</div>
-
 ---
 
 ### 🔍 **Funcionalidades**  
