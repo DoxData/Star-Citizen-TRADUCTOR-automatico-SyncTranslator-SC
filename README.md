@@ -2,7 +2,8 @@
 
 ¡Hola, ciudadanos del 'verso!  
 
-Os presento 🎮 **PlayerDetector Kill SC - FAQ** 🛠️, la herramienta definitiva para monitorizar tu experiencia en Star Citizen y mantenerte un paso adelante.  
+Os presento 🎮 **PlayerDetector Kill SC - FAQ** 🛠️,
+la herramienta definitiva para monitorizar tu experiencia en Star Citizen y mantenerte un paso adelante.  
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/48be624c-add8-4a6c-a395-e6bd71c6bff3" alt="App_DoxData">
