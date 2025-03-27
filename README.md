@@ -37,6 +37,7 @@ Os presento 🎮 **PlayerDetector Kill SC - FAQ** 🛠️, la herramienta defini
 - ⚡ **Reporte Rápido**:  
   - Envía tickets a RSI directamente desde la app  
   - Plantillas preconfiguradas para reportar bugs o hackers  
+
 **❓ ¿POR QUÉ USARLO?**  
 - Monitoriza en tiempo real CPU/GPU/RAM 📊  
 - Mantente informad@ cuando te matan en PvP/PVE 🔔  
