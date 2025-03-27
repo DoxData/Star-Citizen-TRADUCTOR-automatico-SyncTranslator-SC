@@ -1,3 +1,11 @@
+
+_¡Nos vemos en el Verso, ciudadanos!_ 🚀  
+**— DoxData | By David**
+
+
+_¡Nos vemos en el Verso, ciudadanos!_ 🚀  
+**— DoxData | By David**
+
 # PlayerDetector-Kill-SC
 
 ¡Hola, ciudadanos del 'verso!  
@@ -136,19 +144,6 @@ Os presento 🎮 **PlayerDetector Kill SC - FAQ** 🛠️, la herramienta defini
 - **Auto-detector de logs**: Encuentra automáticamente los archivos Game.log de LIVE/PTU.  
 
 ---
-
-### 🎮 **¿Cómo usarla?**  
-1. Descarga el ejecutable portable desde GitHub.  
-2. Ejecútalo como administrador (requerido para monitorización de hardware).  
-
-**¿Necesito ejecutarlo como administrador?**  
-¡NO! La aplicación funciona perfectamente en modo normal, pero con una limitación:  
-
-3. Selecciona tu versión del juego (LIVE/PTU) o carga logs manualmente.  
-4. ¡Disfruta de estadísticas en tiempo real!  
-
----
-
 📥 **Descarga**: [PlayerDetector_Kill_SC v1.0](enlace_github)  
 📜 **Código visible**: [Repositorio GitHub](enlace_repositorio) (Sin licencia de modificación).  
 
