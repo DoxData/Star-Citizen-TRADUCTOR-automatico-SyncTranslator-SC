@@ -18,31 +18,67 @@ Os presento 🎮 **PlayerDetector Kill SC - FAQ** 🛠️, la herramienta defini
 
 ---
 
-### 🔍 **Funcionalidades**  
-- **Monitorización en tiempo real**: Analiza uso de CPU, GPU, RAM y temperaturas con gráficos profesionales.  
-- **Detección de muertes PvP**: Mantente informado cuando te eliminan otros jugadores.  
-- **Registro de eventos**: Historial detallado de MUERTES, ERRORES y actividad del juego.  
-- **Sistema de reportes**: Genera tickets técnicos directamente desde la aplicación.  
-- **Auto-detector de logs**: Encuentra automáticamente los archivos Game.log de LIVE/PTU.  
+
+```markdown
+🎮 **PLAYERDETECTOR KILL SC - ASISTENCIA TÉCNICA** 🛠️  
+*¿Cansado de morir en Star Citizen sin saber cómo o quién te mató?*  
+
+**🚀 Qué ofrece esta herramienta:**  
+- 🔍 **Lector avanzado de Logs**: Analiza automáticamente tus archivos Game.log  
+- 💀 **Detective de Muertes**:  
+  - Revela el **nombre del jugador** que te eliminó  
+  - Muestra el **arma y ubicación exacta** de tu muerte  
+- 🚨 **Recopilador de Errores**:  
+  - Clasifica fallos críticos vs advertencias  
+  - Sugiere soluciones  
+- 📊 **Monitor de Rendimiento**:  
+  - Gráficos en tiempo real de CPU/GPU/RAM  
+  - Alertas térmicas para evitar sobrecalentamientos  
+- ⚡ **Reporte Rápido**:  
+  - Envía tickets a RSI directamente desde la app  
+  - Plantillas preconfiguradas para reportar bugs o hackers  
+**❓ ¿POR QUÉ USARLO?**  
+- Monitoriza en tiempo real CPU/GPU/RAM 📊  
+- Mantente informad@ cuando te matan en PvP/PVE 🔔  
+- Genera reportes técnicos con 1 click 📄  
+- Detecta automáticamente tus logs del juego 🕵️  
+```
+```
+**⚙️ MODOS DE EJECUCIÓN**  
+! IMPORTANTE: Funciona SIN permisos de administrador
++ MODO NORMAL:  
+- Todas las funciones básicas activas  
+- Sin temperatura de CPU ❄️  
+- Prioridad estándar de procesos  
+```
+```
++ MODO ADMIN: (Recomendado)  
+- Temperaturas completas CPU/GPU 🔥  
+- Monitorización precisa de hardware  
+- Detección avanzada de crashes 🚨  
+```
+
+```
+**🔒 SEGURIDAD GARANTIZADA**  
+✔️ 0 telemetría o datos recolectados  
+✔️ Certificado por VirusTotal  
+✔️ Actualizaciones firmadas digitalmente  
+```
+```
+**🚨 SOLUCIÓN DE PROBLEMAS**  
+NO VE TEMPERATURAS? → Ejecuta como Administrador
+ERRORES EN LOGS? → Verifica ruta de instalación del juego
+```
+# 💬 SOPORTE EN VIVO
+
+**¿Problemas técnicos? Contáctanos directamente en Discord:**
+
+🔗 [Soporte en Discord - DoxData](https://discord.com/users/721814914032992296)
 
 ---
-
-### 🎮 **¿Cómo usarla?**  
-1. Descarga el ejecutable portable desde GitHub.  
-2. Ejecútalo como administrador (requerido para monitorización de hardware).  
-
-**¿Necesito ejecutarlo como administrador?**  
-¡NO! La aplicación funciona perfectamente en modo normal, pero con una limitación:  
-
-3. Selecciona tu versión del juego (LIVE/PTU) o carga logs manualmente.  
-4. ¡Disfruta de estadísticas en tiempo real!  
-
----
-
-📥 **Descarga**: [PlayerDetector_Kill_SC v1.0](enlace_github)  
-📜 **Código visible**: [Repositorio GitHub](enlace_repositorio) (Sin licencia de modificación).  
-
----
+**📥 DESCARGAS**  
+→ [Versión Estable v1.0](enlace_github)  
+→ [Verificar en VirusTotal](https://www.virustotal.com)  
 
 **¿Preguntas?** ¡Encuéntrame en el chat global o reporta issues en GitHub!  
 
@@ -144,3 +180,7 @@ Os presento 🎮 **PlayerDetector Kill SC - FAQ** 🛠️, la herramienta defini
   ```bash
   # Ejecutar como administrador (recomendado):
   Right Click > "Ejecutar como administrador"
+
+_¡Nos vemos en el Verso, ciudadanos!_ 🚀  
+**— DoxData | By David**
+
