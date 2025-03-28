@@ -32,16 +32,20 @@ la herramienta definitiva para monitorizar tu experiencia en Star Citizen y mant
 *¿Cansado de morir en Star Citizen sin saber cómo o quién te mató?*  
 
 **🚀 Qué ofrece esta herramienta:**  
-- 🔍 **Lector avanzado de Logs**: Analiza automáticamente tus archivos Game.log  
+- 🔍 **Lector avanzado de Logs**: Analiza automáticamente tus archivos Game.log
+ 
 - 💀 **Detective de Muertes**:  
   - Revela el **nombre del jugador** que te eliminó  
-  - Muestra el **arma y ubicación exacta** de tu muerte  
+  - Muestra el **arma y ubicación exacta** de tu muerte
+
 - 🚨 **Recopilador de Errores**:  
   - Clasifica fallos críticos vs advertencias  
-  - Sugiere soluciones  
+  - Sugiere soluciones
+
 - 📊 **Monitor de Rendimiento**:  
   - Gráficos en tiempo real de CPU/GPU/RAM  
-  - Alertas térmicas para evitar sobrecalentamientos  
+  - Alertas térmicas para evitar sobrecalentamientos
+
 - ⚡ **Reporte Rápido**:  
   - Envía tickets a RSI directamente desde la app  
   - Plantillas preconfiguradas para reportar bugs o hackers  
