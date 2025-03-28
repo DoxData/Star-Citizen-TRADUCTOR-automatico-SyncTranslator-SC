@@ -1,11 +1,4 @@
 
-_¡Nos vemos en el Verso, ciudadanos!_ 🚀  
-**— DoxData | By David**
-
-
-_¡Nos vemos en el Verso, ciudadanos!_ 🚀  
-**— DoxData | By David**
-
 # PlayerDetector-Kill-SC
 
 ¡Hola, ciudadanos del 'verso!  
