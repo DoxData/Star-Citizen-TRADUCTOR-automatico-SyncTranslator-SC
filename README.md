@@ -84,40 +84,6 @@ ERRORES EN LOGS? → Verifica ruta de instalación del juego
 
 🔗 [Soporte en Discord - DoxData](https://discord.com/users/721814914032992296)
 
----
-**📥 DESCARGAS**  
-→ [Versión Estable v1.0](enlace_github)  
-→ [Verificar en VirusTotal](https://www.virustotal.com)  
-
-**¿Preguntas?** ¡Encuéntrame en el chat global o reporta issues en GitHub!  
-
-### ⚠️ **IMPORTANTE**
-**¿Por qué pedir admin entonces?**  
-➡️ Para quienes quieran:  
-- Monitor térmico completo (CPU/GPU).  
-- Prioridad de procesos para mejor rendimiento.  
-- Detección avanzada de crashes.  
-
-**¿Es seguro darle permisos de admin?**  
-✅ Totalmente:  
-- Código visible en GitHub.  
-- Certificado en [VirusTotal](https://www.virustotal.com/gui/home/upload).  
-- 0 telemetría o datos recolectados.  
-```
-```
-### 🛠️ Requisitos/Troubleshooting
-- **Ejecución sin privilegios**:  
-  - La aplicación funciona SIN necesitar modo administrador, pero con limitaciones:  
-    - ❌ No mostrará temperatura de la CPU.  
-    - ❌ Monitorización menos precisa del rendimiento.  
-    - ✅ Todas las demás funciones permanecen activas.  
-
-- **Para máximo rendimiento**:  
-  ```bash
-  # Ejecutar como administrador (recomendado):
-  Right Click > "Ejecutar como administrador"
----
-
 ### 🔍 **Funcionalidades**  
 - **Monitorización en tiempo real**: Analiza uso de CPU, GPU, RAM y temperaturas con gráficos profesionales.  
 - **Detección de muertes PvP**: Mantente informado cuando te eliminan otros jugadores.  
