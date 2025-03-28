@@ -86,7 +86,7 @@ ERRORES EN LOGS? → Verifica ruta de instalación del juego
 
 ### 🔍 **Funcionalidades**  
 - **Monitorización en tiempo real**: Analiza uso de CPU, GPU, RAM y temperaturas con gráficos profesionales.  
-- **Detección de muertes PvP**: Mantente informado cuando te eliminan otros jugadores.  
+- **Detección de muertes PvP/PVE**: Mantente informado cuando te eliminan otros jugadores.  
 - **Registro de eventos**: Historial detallado de MUERTES, ERRORES y actividad del juego.  
 - **Sistema de reportes**: Genera tickets técnicos directamente desde la aplicación.  
 - **Auto-detector de logs**: Encuentra automáticamente los archivos Game.log de LIVE/PTU.  
