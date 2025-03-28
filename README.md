@@ -153,11 +153,6 @@ ERRORES EN LOGS? → Verifica ruta de instalación del juego
     - ❌ Monitorización menos precisa del rendimiento.  
     - ✅ Todas las demás funciones permanecen activas.
 ```
-```
-- **Para máximo rendimiento**:  
-   # Ejecutar como administrador (recomendado)
-```
-
 _¡Nos vemos en el Verso, ciudadanos!_ 🚀  
 **— DoxData | By David**
 
