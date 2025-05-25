@@ -19,7 +19,7 @@ Esta aplicación está diseñada para facilitar la actualización de la traducci
 ## ¿Qué hace SyncTranslator SC?
 
 - **Busca automáticamente** la carpeta de Star Citizen en tu disco `C:`.
-- **Actualiza automáticamente** la traducción al iniciar (si Star Citizen no está en ejecución).
+- **Actualiza automáticamente** la traducción al iniciar la Aplicación (si Star Citizen no está en ejecución).
 - **Permite seleccionar manualmente** la ubicación de la carpeta de Star Citizen si está en otro disco (y recuerda la ubicación para la próxima vez).
 - **Indicadores visuales** (LEDs) para saber si los directorios de Star Citizen (LIVE y PTU) están correctamente configurados.
 - **Notificaciones** en la bandeja del sistema para mantenerte informado.
